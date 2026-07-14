@@ -55,7 +55,7 @@ telegram_nudify_bot/
 - Python 3.8+
 - NVIDIA GPU (recommended)
 - Docker & Docker Compose (for containerized deployment)
-- Telegram Bot Token (from @BotFather)
+- Telegram Bot Token (from @BotFather) 8855098307:AAHb33_rcMqvzBWvov_QMG0VuTmEoqCZdVM
 
 ### 1. Automated Setup
 
